@@ -1,5 +1,6 @@
 ## Team Members: Shawn Wang, Frederick Nathanael Thunardi, Chang Yee Vern, Alyssa Ting
 ### **Good day trainers! Here's your guide to the here and theres of this game.**
+This is a school project tp practise the use of stack, circular queue, linked list, and OOP.
 
 <br/>
 
